@@ -1,0 +1,36 @@
+## [[Madách Imre]]
+- Madách helye irodalmunkban ( tankönyv )
+- a drámai költemény műfaji jellemzői ( tankönyv )
+- irodalmi előzmények ( tankönyv, füzet )
+- a mű keletkezésének ideje
+- személyes és történelmi , természettudományi háttér
+- szerkezet ( keretszínek, történeti színek, álom az álomban = Párizs ) ( füzet )
+- hegeli triáda ( tankönyv )
+- Ádám, Éva, Lucifer szerepe a Tragédiában ( füzet )
+- Az eszmék sorsa a Tragédiában ( csak a füzet !!! )
+- **Az ókori színek részletesen: az eszmék alakulása, férfi és nő kapcsolata, egyén és tömeg kapcsolata ( hf. volt a fogalmazás ).**
+- **A 15. szín részletesen, az idézetek is ( füzet )**
+- a mű üzenete
+- Jankovics Marcell animációs filmje
+- illusztrációk
+- **Memoriterek**: [[Az ember tragédiája|„Be van fejezve….”, „Fukar kezekkel mérsz…” és „A cél voltaképp mi is?”]]
+- szállóigék
+## [[Shakespeare]]
+- Shakespeare helye az irodalomban ( tankönyv ) -> angol reneszánsz irodalom és a világirodalom egyik legnagyobb drámaírója
+- élete ( nagyon röviden!!! )
+- művei - tragédiák, nagytragédiák, vígjátékok, regényes színművek címmel együtt; szonettek -> pl. Macbeth, Othello, Hamlet, Antonius és Kleopátra- nagytragédiák; Szentivánéji álom, A velencei kalmár, A makrancos hölgy - vígjáték stb.
+- Globe Színház ( tankönyv )
+- a Shakespeare-korabeli színjátszás jellemzői – nagyon röviden ( tankönyv )
+- irodalmi előzmények ( tankönyv )
+- téma
+- üzenet
+- a középkori világrend és a reneszánsz értékek szembeállítása ( a szereplők csoportosítása )
+- szerkezet
+- ami új:
+  - a helyszínek ( külső, belső )
+  - a jellemzés ( Romeo, Júlia, Lőrinc barát, Mercutio részletesen )
+  - a szerelmi téma
+- a véletlenek szerepe
+- a téma megjelenése filmen ( tankönyv )
+- feldolgozások : balett, musical
+- **Memoriterek** : [[Romeo és Júlia|Prológus, erkélyjelenet, a herceg szava a mű végén]]
