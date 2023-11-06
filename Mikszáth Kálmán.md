@@ -67,3 +67,26 @@ A hercegnő nem a herceg felesége ( = hercegné ), szeretőjének vitte magáva
 | Romantikus jegyek                                                                                                                                                                                                                                                                                                                                                                                                              | Realista jegyek                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Főhős különös alakja (az ellentétekre épülő kompozíció: Olej Tamást másmilyennek mutatja be, mint valójában) „ az erdők vadállatja „<br>    <br>- A herceg álruhában érkezik (vadászként)<br>    <br>- Lányszöktetés<br>    <br>- Anika alakja<br>    <br>- ólomöntés Szent András napján: először dudát, majd puskát látnak mint Anika jövendőbelije jellemzőjét<br>    <br>- Mesei szépségű táj<br>    <br>- Témaválasztás | - Arisztokrataellenesség „selymes szobák hőse”<br>    <br>- Csípős észrevételek<br>    <br>- Olej Tamás lélektanilag hiteles ábrázolása (kólika, ágynak esik, rémálmok, a tükör betörése )<br>    <br>- Részletes leírások (a nyáj részletező leírása – a veszteség nagyságrendje ) |
+
+
+## Bede Anna tartozása
+- A műben központi szerepet játszó hiedelem:
+  - a halott csak akkor nyugodhat a túlvilágon, ha földi tartozásai kiegyenlítettek
+- A szereplők ábrázolása: Mikszáth elnéző szeretettel ábrázolja alakjait.
+  - Bede Erzsi:
+    - naiv, melegszívű, fiatal parasztlány, aki bájával meghatja a bírákat
+  - bírák:
+    - szigorúak, a törvény kötelező érvényűnek tartják, de megértőek.
+    - Munkájukban hasznosítják emberismereteiket, az egyszerű emberek gondolkodásmódjáról szerzett tapasztalataikat
+- Szerkezet:
+  - rövid, tömör, csattanóval végződő, szigorúan szerkesztett novella
+  - időrendben haladó lineáris szerkezet
+  - mindig csak annyit tudunk meg, amennyit a szereplők
+- Váratlan fordulat a műben:
+  - Kiderül, hogy nem Bede Anna, hanem testvére Bede Erzsi áll a bíróság előtt.
+- Rövid leíró részek a novellában:
+  - A hangulat és a szereplők személyiségének érzékeltetésére szolgálnak.
+- Megoldás: a bírák előtt két választási lehetőség áll
+  | ⇙ | ⇘ |
+  | - | - |
+  | azt mondani Erzsinek, hogy ő nem töltheti le testvére börtönbüntetését. | tiszteletben tartva a család babonáját és lelki nyugalmát, azt mondani Erzsinek, hogy testvére ártatlan volt -> a bírák ezt választják |
